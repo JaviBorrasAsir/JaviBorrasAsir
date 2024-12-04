@@ -1,4 +1,6 @@
 ### Bienvenid@  
+![](bannerjavi.png)
+
 👋 ¡Hola! Soy Javi, estudiante de Administración de Sistemas Informáticos en Red. Apasionado de la informática desde pequeño, siempre estoy explorando nuevas tecnologías y desarrollando habilidades en gestión de redes y sistemas. 🚀  
   
 
